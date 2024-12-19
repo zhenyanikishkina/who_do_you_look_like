@@ -1,0 +1,11 @@
+torch
+torchvision
+facenet-pytorch
+numpy
+lmdb
+faiss-cpu
+pillow
+aiogram
+opencv-python-headless
+kagglehub
+scipy
